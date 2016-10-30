@@ -27,7 +27,7 @@ compile 'io.reactivex:rxjava:1.2.1'
 ```
 
 如果使用lambda:
-在项目
+    在项目
 ```grdle
 classpath 'me.tatarka:gradle-retrolambda:3.3.0'
 ```
