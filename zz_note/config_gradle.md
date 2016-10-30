@@ -34,9 +34,7 @@ classpath 'me.tatarka:gradle-retrolambda:3.3.0'
 在模块
 ```gradle
 apply plugin: 'me.tatarka.retrolambda'
-```
-android节点下
-```
+//android节点下
 compileOptions {
     sourceCompatibility JavaVersion.VERSION_1_8
     targetCompatibility JavaVersion.VERSION_1_8
